@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">poq</string>
+    <string name="last_updated">Last updated:</string>
+    <string name="clone_url">Clone URL</string>
+    <string name="owner">Owner</string>
+    <string name="language">Language</string>
+    <string name="defaultBranch">Default</string>
+    <string name="mainTitle">Repository list</string>
+</resources>
